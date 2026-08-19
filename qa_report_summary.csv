@@ -1,0 +1,2 @@
+total_rows_raw,total_rows_clean,duplicate_rows_removed,negative_value_rows_removed,anomalies_flagged,anomaly_rate_pct
+25000,25000,0,0,898,3.59
